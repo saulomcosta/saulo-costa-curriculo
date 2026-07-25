@@ -8,14 +8,7 @@
 
 ## 📄 Currículo Profissional
 
-[![Baixar Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./docs/Saulo_Costa_FullStack_Java_Cloud_AI.pdf)
-
-[![Baixar Currículo DOCX](https://img.shields.io/badge/Curr%C3%ADculo-DOCX-blue?style=for-the-badge&logo=microsoftword)](./docs/Saulo_Costa_FullStack_Java_Cloud_AI.docx)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saulo-m-costa)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-100000?style=for-the-badge&logo=github)](https://github.com/saulomcosta)
-
+[![Baixar Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./docs/Saulo_Costa_FullStack_Java_Cloud_AI.pdf) [![Baixar Currículo DOCX](https://img.shields.io/badge/Curr%C3%ADculo-DOCX-blue?style=for-the-badge&logo=microsoftword)](./docs/Saulo_Costa_FullStack_Java_Cloud_AI.docx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saulo-m-costa) [![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-100000?style=for-the-badge&logo=github)](https://github.com/saulomcosta)
 ---
 
 # 🗺️ Navegação Rápida
@@ -65,7 +58,6 @@ Implantação
 Observabilidade
 ↓
 Evolução Contínua
-
 
 Minha carreira é construída em três pilares:
 
@@ -340,21 +332,11 @@ Este repositório representa minha trajetória profissional, estudos, arquitetur
       <h3><b>Senior Software Engineer | AI Solutions Architect</b></h3>
       <p>🚀 Especialista em Arquitetura de Software e na criação de Agentes de IA Autônomos.</p>
       <p>⚙️ Desenvolvendo sistemas altamente escaláveis e resilientes utilizando TypeScript, Java, AWS e Microsserviços.</p>
-      <p>
-        <a href="https://github.com/saulomcosta" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="https://www.linkedin.com/in/saulo-m-costa/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <b>SASS-X Sentinel v4.0</b> — Production-Ready ✅ <br />
-  <b>Última atualização:</b> 2026-07-09 • Feito com ☕ e foco em Clean Architecture.
+  <b>Última atualização:</b> 2026-07-18
 </p>
-
-Minha atuação envolve todo o ciclo de vida do software:
