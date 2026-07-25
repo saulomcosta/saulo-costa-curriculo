@@ -324,4 +324,37 @@ Currículo:
 
 Este repositório representa minha trajetória profissional, estudos, arquitetura de soluções e minha visão sobre o futuro da Engenharia de Software.
 
+---
+
+## 👤 Autor & Engenharia
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saulomcosta">
+        <img src="https://github.com/saulomcosta.png" width="120px;" alt="Saulo Costa Profile Picture"/><br />
+        <sub><b>Saulo M. Costa</b></sub>
+      </a>
+    </td>
+    <td>
+      <h3><b>Senior Software Engineer | AI Solutions Architect</b></h3>
+      <p>🚀 Especialista em Arquitetura de Software e na criação de Agentes de IA Autônomos.</p>
+      <p>⚙️ Desenvolvendo sistemas altamente escaláveis e resilientes utilizando TypeScript, Java, AWS e Microsserviços.</p>
+      <p>
+        <a href="https://github.com/saulomcosta" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://www.linkedin.com/in/saulo-m-costa/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>SASS-X Sentinel v4.0</b> — Production-Ready ✅ <br />
+  <b>Última atualização:</b> 2026-07-09 • Feito com ☕ e foco em Clean Architecture.
+</p>
+
 Minha atuação envolve todo o ciclo de vida do software:
