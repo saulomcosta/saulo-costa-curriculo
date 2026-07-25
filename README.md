@@ -69,9 +69,13 @@ Evolução Contínua
 
 Minha carreira é construída em três pilares:
 
-- [Engenharia de Software](./profile/competencias.md)
-- [Arquitetura de Soluções](./architecture/software-architecture.md)
-- [Inteligência Artificial aplicada à Engenharia](./architecture/ai-engineering.md)
+- **Engenharia de Software**
+- **Arquitetura de Soluções**
+- **Inteligência Artificial aplicada à Engenharia**
+
+Minha jornada é impulsionada por **resiliência**, **estudo contínuo**, **enfrentamento de desafios e superações**, alicerçada em **humildade**, **determinação** e **muito Deus no coração em tudo o que faço e busco**.
+
+Meu objetivo é construir tecnologia que não apenas funcione, mas que gere **valor real para pessoas e negócios**.
 
 ---
 
@@ -104,6 +108,9 @@ Kubernetes
 Azure DevOps
 Elastic Stack
 Datadog
+Microsft Entra ID
+Cybersecurity
+Governancia TI
 
 
 ---
@@ -139,6 +146,10 @@ WebLogic
 Azure DevOps
 Git
 CI/CD
+WebLogic
+Keycloak 
+JSON Web Token (JWT)
+OAuth 2.0 
 
 
 Destaques:
@@ -164,14 +175,18 @@ Estudos e experimentações:
 - MCP
 - Agentes Autônomos
 - Arquiteturas Multiagentes
+- Governancia
+- Cybersecurity
+- OWAF
 
 Ferramentas:
 
-
-GitHub Copilot
-Claude Code
-Gemini
-Kiro
+OpenAI (GPT-4o) 
+Claude (Anthropic) 
+Gemini (DeepMind)
+LLaMA (Meta)
+GitHub Copilot (Microsoft)
+Kiro (AWS)
 LangChain
 LangChain4j
 
