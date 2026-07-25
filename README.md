@@ -8,7 +8,12 @@
 
 ## 📄 Currículo Profissional
 
-[![Baixar Currículo PDF](https://img.shields.io/badge/Curr%C3%ADculo-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./docs/Saulo_Costa_FullStack_Java_Cloud_AI.pdf) [![Baixar Currículo DOCX](https://img.shields.io/badge/Curr%C3%ADculo-DOCX-blue?style=for-the-badge&logo=microsoftword)](./docs/Saulo_Costa_FullStack_Java_Cloud_AI.docx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saulo-m-costa) [![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-100000?style=for-the-badge&logo=github)](https://github.com/saulomcosta)
+<p align="center">
+  <a href="./docs/Saulo_Costa_FullStack_Java_Cloud_AI.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Baixar Currículo PDF"></a>
+  <a href="./docs/Saulo_Costa_FullStack_Java_Cloud_AI.docx"><img src="https://img.shields.io/badge/Curr%C3%ADculo-DOCX-blue?style=for-the-badge&logo=microsoftword" alt="Baixar Currículo DOCX"></a>
+  <a href="https://www.linkedin.com/in/saulo-m-costa"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/saulomcosta"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-100000?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
 ---
 
 # 🗺️ Navegação Rápida
